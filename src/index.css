@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+
+@layer components {
+    .mycontainer{
+        @apply container px-40 py-16 mx-auto;
+    }
+}
+
+@media (max-width: 785px) {
+    .mycontainer{
+        padding-inline: 5px;
+    }
+}
