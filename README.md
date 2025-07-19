@@ -37,20 +37,20 @@ Follow these steps to get PassOP up and running on your local machine:
 
 Bash
 
-git clone <https://github.com/Sauhardrai/PassOP.git>\
-cd PassOP
+```git clone <https://github.com/Sauhardrai/PassOP.git>```\
+```cd PassOP```
 
 
 Install dependencies:
 
 Bash
 
-npm install
+```npm install```\
 Start the development server:
 
 Bash
 
-npm run dev
+```npm run dev```
 This will open the application in your default browser, usually at http://localhost:5173.
 
 🤝 Contributing
